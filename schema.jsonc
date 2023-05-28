@@ -1,0 +1,9 @@
+{
+  "id": "", // ID of the package, must be the same name as the file
+  "repo": "https://url/to/repo.git", // GIT Repository
+  "versions": {
+    // version: branch
+    "latest": "main", // The branch of the latest version
+    "0.1.0": "v0.1.0" // Any other versions should be like this, v0.1.0 is the branch name of this version
+  }
+}

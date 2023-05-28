@@ -2,6 +2,7 @@
   "id": "helloworld",
   "repo": "https://github.com/rustutil/helloworld-ru.git",
   "versions": {
+    "latest": "main",
     "0.1.0": "main"
   }
 }
