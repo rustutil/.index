@@ -1,0 +1,7 @@
+{
+  "id": "helloworld",
+  "repo": "https://github.com/rustutil/helloworld-ru.git",
+  "versions": {
+    "0.1.0": "main"
+  }
+}
